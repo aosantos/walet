@@ -1,7 +1,11 @@
 Componentes
+
 NGINX (latest)
+
 MYSQL (latest)
+
 PHP8.0-FPM (latest)
+
 COMPOSER (lastest)
 
 Instalação
